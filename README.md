@@ -1,4 +1,4 @@
-<h1>Hi, I'm Asya! 
+<h1>Hi, I'm Asya! 🙋🏻‍♀️
 
 <h2>👩🏻‍💻 Cybersecurity Projects:</h2>
 <!-- 
