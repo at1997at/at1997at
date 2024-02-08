@@ -1,6 +1,29 @@
 <h1>Hi, I'm Asya! 🙋🏻‍♀️
 
-<h2>👩🏻‍💻 Cybersecurity Projects:</h2>
+# My Cybersecurity Portfolio
+
+Welcome to my GitHub repository! This  serves as a record of my journey in the world of Cybersecurity. Here, I track my progress, share projects, and showcase my skills and interests. 
+
+## About me
+
+- **Current Status:** Cybersecurity Masterstudent
+- **Favorite Language:** Python 🐍
+- **Operating System:** macOS 💻
+- **Main Focus:** Ethical Hacking, Network Security, Blue Teaming
+
+
+
+
+Happy coding and stay secure! 👩🏻‍💻 🔐
+
+
+
+
+
+
+
+
+<!-- <h2>👩🏻‍💻 Cybersecurity Projects:</h2> -->
 
 
 
