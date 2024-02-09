@@ -1,5 +1,6 @@
-<h1>Hi, I'm Asya! 🙋🏻‍♀️
+<h1> Hi, I'm Asya! 🙋🏻‍♀️
 
+## My Coding Journey
 
 Welcome to my GitHub repository! This  serves as a record of my journey in the world of Cybersecurity. Here, I track my progress, share projects, and showcase my skills and interests. 
 
